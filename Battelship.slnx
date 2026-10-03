@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Battelship.vcxproj" Id="6ecc2c57-8ab8-473c-871a-d4040fe68897" />
+</Solution>
